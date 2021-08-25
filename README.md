@@ -1,0 +1,2 @@
+# MercadoLibre-Dashboard
+Construcción de un Dashboard en PowerBI para el análisis de comportamientos de compra en las distintas categorías de productos publicados en MercadoLibre año 2020. Fuente de Data: archivos JSON de MeLi Data Challenge 2020 conteniendo historiales de usuario previos a concretar una compra, registros de las publicaciones activas y obtención de la categorización de productos publicados mediante API.
